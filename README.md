@@ -1,0 +1,2 @@
+# Srishti-Kumari-Grip-Task-5-Exploratory-Data-Analysis--Sports-The-Sparks-Foundation
+This is the Task 5 of The Sparks Foundation's Graduate Rotatory Internship Program. In this task, I performed ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’. As a sports analyst, I tried to find out the most successful teams, players and factors contributing win or loss of a team and suggested teams or players a company should endorse for its products.
